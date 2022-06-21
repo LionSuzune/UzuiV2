@@ -1,0 +1,15 @@
+{
+    "ownerNumber": ["62887433094409@s.whatsapp.net","6288289252040@s.whatsapp.net","6285795586847@s.whatsapp.net","6285881185481@s.whatsapp.net"],
+    "ownerName": "LionSuzune",
+    "instagram" : "https://instagram.com/lionsuzunee",
+    "botName": "Uzui Ikawa",
+    "footer": "Ikawa Team",
+    "sessionName": "session",
+    "pathimg": "./media/Haruka.jpg",
+    "gamewaktu": 60,
+    "limitCount": 100,
+    "gcount": {
+        "prem": 100,
+        "user": 15
+    }
+}
